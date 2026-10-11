@@ -14,6 +14,11 @@ A simple frontend for the [instagram page](https://instagram.com/scheissparker.k
 Images uploaded through this website are processed and stored via OpenRouter. We are not responsible for the content of uploaded images or for any privacy concerns arising from their submission. By uploading an image, you confirm that you have the right to share it and that it does not contain illegal or harmful content.
 You also agree that the uploaded image, as well as its metadata, may be used in further contexts, such as publication on our Instagram page or other promotional material related to this project.
 
+## Information
+
+If you want to use this software for your own use case, or for a similar use case, feel free to contact me via my [personal website](https://javon-web.de/#contact).
+
 ## Links
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/scheissparker.kreis.nom)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)](https://scheissparker.github.io)
