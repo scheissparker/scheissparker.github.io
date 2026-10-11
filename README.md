@@ -1,13 +1,13 @@
 ## scheissparker.github.io - Intro
 
-A simple frontend for the [Instagram page](https://instagram.com/scheissparker.kreis.nom) that allows people to upload photos of bad parking jobs
+A simple frontend for the [instagram page](https://instagram.com/scheissparker.kreis.nom) that allows people to upload photos of bad parking jobs
 
 ## How to Use / Functionality
 
 - Upload your photo to the [website](https://scheissparker.github.io)
 - The photo is sent to OpenRouter to check whether the image meets the requirements
 - When the check is passed, the image is uploaded to a GitHub server via a bot
-- The post is reviewed by us and then uploaded to [Instagram](https://instagram.com/scheissparker.kreis.nom)
+- The post is reviewed by us and then uploaded to [instagram](https://instagram.com/scheissparker.kreis.nom)
 
 ## Disclaimer
 
