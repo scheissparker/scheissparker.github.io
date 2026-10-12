@@ -6,7 +6,7 @@ A simple frontend for the [instagram page](https://instagram.com/scheissparker.k
 
 - Upload your photo to the [website](https://scheissparker.github.io)
 - The photo is sent to OpenRouter to check whether the image meets the requirements
-- When the check is passed, the image is uploaded to a GitHub server via a bot
+- When the check is passed, the image is uploaded to a Discord server via a bot
 - The post is reviewed by us and then uploaded to [instagram](https://instagram.com/scheissparker.kreis.nom)
 
 ## Disclaimer
